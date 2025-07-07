@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e9920f07-9dff-47ef-9ad3-6dab4f6b09cf": {
+      "ProjectGuid": "e9920f07-9dff-47ef-9ad3-6dab4f6b09cf",
+      "DisplayName": "GeneralTests",
+      "ColorIndex": 0
+    },
+    "8d536247-a81d-40b3-bba0-4e801978b6f5": {
+      "ProjectGuid": "8d536247-a81d-40b3-bba0-4e801978b6f5",
+      "DisplayName": "API",
+      "ColorIndex": 1
+    },
+    "710d0277-ef7c-410c-b882-1480f60561c7": {
+      "ProjectGuid": "710d0277-ef7c-410c-b882-1480f60561c7",
+      "DisplayName": "WebApp",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
